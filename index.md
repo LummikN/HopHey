@@ -1,8 +1,12 @@
-## Welcome to GitHub Pages
+## Welcome to Seyda Neen
 
-You can use the [editor on GitHub](https://github.com/LummikN/Seyda-Neen/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+Wake up, we're here. Why are you shaking? Are you ok? Wake up.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Stand up... there you go. You were dreaming. What's your name?
+
+Well, not even last night's storm could wake you. I heard them say we've reached Morrowind, I'm sure they'll let us go.
+
+<img src="https://images.uesp.net/thumb/0/0d/MW-npc-Jiub.jpg/600px-MW-npc-Jiub.jpg" alt="Jiub" />
 
 ### Markdown
 
